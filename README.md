@@ -7,7 +7,7 @@
 | 1 | [Выполнил](https://github.com/Maks-Shashkov/PKS/tree/Task4) |
 | 2 | [Ссылка на ветку](https://github.com/KirichenkoND/PKS5_Template/tree/Practice_2) |
 | 3 | [Ссылка на ветку](https://github.com/KirichenkoND/PKS5_Template/tree/Practice_3) |
-| 4 | [Ссылка на ветку](https://github.com/KirichenkoND/PKS5_Template/tree/Practice_4) |
+| 4 | [Выполнил](https://github.com/Maks-Shashkov/PKS/tree/Task4) |
 | 5 | [Ссылка на ветку](https://github.com/KirichenkoND/PKS5_Template/tree/Practice_5) |
 | 6 | [Ссылка на ветку](https://github.com/KirichenkoND/PKS5_Template/tree/Practice_6) |
 | 7 | [Ссылка на ветку](https://github.com/KirichenkoND/PKS5_Template/tree/Practice_7) |
