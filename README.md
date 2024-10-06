@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="images/MIREA_Gerb_Colour.svg" alt="Mirea_Gerb" width="30%"/>
-</p>
-
-___
+__
 
 # Программирование корпоративных систем
 Дисциплина: **Программирование корпоративных систем** <br>
