@@ -4,7 +4,7 @@
 Работы выполнил студент **ЭФБО-05-22 Шашков М.К.** <br>
 | Номер<br>Практики | Ссылка на ветку |
 |:---:|---|
-| 1 | [Выполнил](https://github.com/Maks-Shashkov/PKS/tree/Task4) |
+| 1 | [Выполнил](https://github.com/Maks-Shashkov/PKS/tree/Task1) |
 | 2 | [Ссылка на ветку](https://github.com/KirichenkoND/PKS5_Template/tree/Practice_2) |
 | 3 | [Выполнил](https://github.com/Maks-Shashkov/PKS/tree/Task3) |
 | 4 | [Выполнил](https://github.com/Maks-Shashkov/PKS/tree/Task4) |
